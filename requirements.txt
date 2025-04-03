@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+Pillow
+langchain
+langchain-community
+google-serper
+python-dotenv
